@@ -1,0 +1,6 @@
+# 前置直连规则
+
+DOMAIN-SUFFIX,otis.eu.org
+DOMAIN-SUFFIX,ubntssm.ddns.net
+DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,emby.to
