@@ -2,4 +2,6 @@ DOMAIN,snowflake.qq.com
 DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,fourier.taobao.com
 DOMAIN,gm.mmstat.com
+DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,cookielaw.org
 IP-CIDR,180.76.76.200/32
