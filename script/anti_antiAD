@@ -1,0 +1,5 @@
+DOMAIN,snowflake.qq.com
+DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,fourier.taobao.com
+DOMAIN,gm.mmstat.com
+IP-CIDR,180.76.76.200/32,no-resolve
